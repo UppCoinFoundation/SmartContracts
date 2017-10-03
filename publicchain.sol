@@ -1,5 +1,5 @@
 pragma solidity ^0.4.0;
-import "./POAtest2.sol";
+import "./Tracker.sol";
 contract TrackBalance {
  
     address private _trustedaddress;
